@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.ecb0eedb.css",
-    "main.js": "/static/js/main.c8cc2b11.js",
+    "main.js": "/static/js/main.b12346c9.js",
     "static/media/tsu_admin_proyectos.jpeg": "/static/media/tsu_admin_proyectos.c64da050a00e8ec44645.jpeg",
     "index.html": "/index.html",
     "main.ecb0eedb.css.map": "/static/css/main.ecb0eedb.css.map",
-    "main.c8cc2b11.js.map": "/static/js/main.c8cc2b11.js.map"
+    "main.b12346c9.js.map": "/static/js/main.b12346c9.js.map"
   },
   "entrypoints": [
     "static/css/main.ecb0eedb.css",
-    "static/js/main.c8cc2b11.js"
+    "static/js/main.b12346c9.js"
   ]
 }
